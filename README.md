@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently a Business Analytics student in NUS, have been working on various web development projects on Github.
+
+angeleyyq@gmail.com
+
 <!--
 **Angeleyeo/Angeleyeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
